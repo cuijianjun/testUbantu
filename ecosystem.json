@@ -1,5 +1,5 @@
 {
-  "apps:": [
+  "apps": [
     {
       "name":"testKoa",
       "script": "app.js",
